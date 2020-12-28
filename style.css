@@ -2,7 +2,7 @@
 
 :root {
   --success-color: #2ecc71;
-  --error-color: #b4e73c;
+  --error-color: #e74c3c;
 }
 
 * {
@@ -13,7 +13,7 @@ body {
   background-color: #f9fafb;
   font-family: 'Open Sans', sans-serif;
   display: flex;
-  align-items: center;
+  align-items:center;
   justify-content: center;
   min-height: 100vh;
   margin: 0;
